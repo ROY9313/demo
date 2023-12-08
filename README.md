@@ -1,2 +1,2 @@
 # demo
-This is my demo repository for earning purpose.
+This is my demo repository for learning purpose.
